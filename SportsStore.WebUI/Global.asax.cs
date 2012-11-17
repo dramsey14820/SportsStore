@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SportsStore.WebUI.Infrastructure;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
@@ -31,6 +32,9 @@ namespace SportsStore.WebUI
 
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
@@ -40,6 +44,9 @@ namespace SportsStore.WebUI
 
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);
+            
+            // This tells MVC that we want to use the Ninject controller class to create controller objects.
+            ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
         }
     }
 }
