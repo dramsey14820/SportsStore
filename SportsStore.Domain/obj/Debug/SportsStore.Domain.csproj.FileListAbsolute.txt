@@ -2,3 +2,4 @@ C:\_Git\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
 C:\_Git\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
 C:\_Git\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\_Git\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\_Git\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache

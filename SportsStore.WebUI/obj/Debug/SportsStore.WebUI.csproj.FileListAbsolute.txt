@@ -31,3 +31,6 @@ C:\_Git\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
 C:\_Git\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\_Git\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\_Git\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\_Git\SportsStore\SportsStore.WebUI\bin\Moq.dll
+C:\_Git\SportsStore\SportsStore.WebUI\bin\Moq.pdb
+C:\_Git\SportsStore\SportsStore.WebUI\bin\Moq.xml
