@@ -2,6 +2,7 @@ C:\_Git\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
 C:\_Git\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
 C:\_Git\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
 C:\_Git\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\_Git\SportsStore\SportsStore.WebUI\bin\Moq.dll
 C:\_Git\SportsStore\SportsStore.WebUI\bin\Ninject.dll
 C:\_Git\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
 C:\_Git\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
@@ -15,6 +16,8 @@ C:\_Git\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.dll
 C:\_Git\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
 C:\_Git\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
 C:\_Git\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\_Git\SportsStore\SportsStore.WebUI\bin\Moq.pdb
+C:\_Git\SportsStore\SportsStore.WebUI\bin\Moq.xml
 C:\_Git\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
 C:\_Git\SportsStore\SportsStore.WebUI\bin\Ninject.xml
 C:\_Git\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
@@ -31,6 +34,3 @@ C:\_Git\SportsStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
 C:\_Git\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\_Git\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\_Git\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
-C:\_Git\SportsStore\SportsStore.WebUI\bin\Moq.dll
-C:\_Git\SportsStore\SportsStore.WebUI\bin\Moq.pdb
-C:\_Git\SportsStore\SportsStore.WebUI\bin\Moq.xml
